@@ -3,7 +3,7 @@
 public class Solution
 {
     // task 1
-    public static (int?, int?) FindMaxValueAndSumFromString(string str)
+    public static (int?, int?) FindMaxValueAndSum(string str)
     {
         int? sum = null;
         int? maxVal = null;
